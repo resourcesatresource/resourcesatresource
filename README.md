@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet!
 
-I'm a **software engineer** based in 🇮🇳 **India**, currently working at **Unthinkable Solutions LLP** as *Junior Associate Software Engineer* and deeply passionate about building scalable, modern applications that create real-world impact.
+I'm a **software engineer** based in 🇮🇳 **India**, currently working at **Unthinkable Solutions LLP** as *Associate Software Engineer* and deeply passionate about building scalable, modern applications that create real-world impact.
 
 ---
 
